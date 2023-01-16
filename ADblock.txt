@@ -1,21 +1,24 @@
-||wmbbsat.com^
-||wmbdevcydmthac.xyz^
-||wmgtr.com^
-||wmkxtilkib.xyz^
-||wmonthsaft.biz^
-||wmptctl.com^
-||wmruzfvtg.com^
-||wmzrmmlgqe.com^
-||wndlkj.com^
-||wndvcmyrqwnbdy.xyz^
-||wnjjhksaue.com^
-||wnp.com^
-||wnpladv.com^
-||woaembayed.uno^
-||woafoame.net^
-||woaneezy.com^
-||woathail.net^
-||wodycaha.com^
-||woeentre.guru^
-||woejh.com^
-||woeocbeswhf.xyz^
+[Adblock Plus 2.0]
+! Checksum: YKAcwyrVoY6s5WXpjT2bSw
+! Version: 202301160721
+! Title: EasyList China+EasyList
+! Last modified: 16 Jan 2023 07:21 UTC
+! Expires: 1 days (update frequency)
+! Homepage: https://github.com/easylist/easylistchina/
+!
+! *** easylistchina.txt ***
+!
+! EasyList China subscription
+!
+! *** easylistchina:easylistchina.txt ***
+! Chinese supplement for the EasyList filters
+! License: https://easylist.to/pages/licence.html
+!
+! Please report any unblocked adverts or problems
+! on GitHub (https://github.com/easylist/easylistchina/issues)
+! or via e-mail (easylist.china@gmail.com).
+!
+!-----------------------General advert blocking filters-----------------------!
+||itthis.f9rlf.yachts^
+||1611.tapwhomjay.live^
+||one.next-pops.top^
