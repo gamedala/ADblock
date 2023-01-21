@@ -2,7 +2,7 @@
 ! Checksum: YKAcwyrVoY6s5WXpjT2bSw
 ! Version: 202301160721
 ! Title: EasyList China+EasyList
-! Last modified: 16 Jan 2023 07:21 UTC
+! Last modified: 16 1月2023日 07:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -22,3 +22,4 @@
 ||itthis.f9rlf.yachts^
 ||1611.tapwhomjay.live^
 ||one.next-pops.top^
+||prizesense.life^
